@@ -6,7 +6,8 @@ The technologies used are the following:
 
 
 
- Fron-end - - - - - ->
+<b> <i>Fron-end</i> </b> - - - - - ->
+ 
  
 HTML5
 
@@ -21,7 +22,7 @@ Photography
 
 
 
-  Back end - - - - - - >
+<b> <i>  Back end </i> </b>- - - - - - >
   
 Node.js
 
@@ -31,6 +32,6 @@ EJS
 
 
 
- Database (local directory only)- - - - - - - >
+ <i> <b> Database </b>(local directory only) </i> - - - - - - - >
  
 MySQL/MariaDB
