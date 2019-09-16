@@ -6,23 +6,31 @@ The technologies used are the following:
 
 
 
-- - - -  Fron-end - - - - - ->
+ Fron-end - - - - - ->
+ 
 HTML5
+
 CSS3
+
 Javascript
+
 Adobe Photoshop
+
 Photography
 
 
 
 
-- - - -  Back end - - - - - - >
+  Back end - - - - - - >
+  
 Node.js
+
 Express
+
 EJS
 
 
 
-- - - - Database (local directory only)- - - - - - - >
-
+ Database (local directory only)- - - - - - - >
+ 
 MySQL/MariaDB
