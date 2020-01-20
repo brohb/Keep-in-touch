@@ -34,3 +34,9 @@ EJS
  <i> <b> Database </b>(local directory) </i> - - - - - - - >
  
 MySQL/MariaDB
+
+
+
+ <i> <b> Final Result (screen) </b> </i> - - - - - - - >
+ 
+ <a href> https://drive.google.com/file/d/1Nuvh_UvGeTlfOlqKI4sTk3EoFRca09Qn/view?usp=sharing </a>
